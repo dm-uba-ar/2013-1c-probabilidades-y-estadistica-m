@@ -1,9 +1,4 @@
-# Probabilidad y Estadística (M) — Primer cuatrimestre de 2013
-
-## Equipo docente
-
-- **Clases teóricas:** Mariela Sued
-- **Clases prácticas:** María Eugenia Szretter Noste, Alejandra Mercedes Martínez
+# Probabilidades y Estadística M — Primer cuatrimestre de 2013
 
 ## Prácticas
 
